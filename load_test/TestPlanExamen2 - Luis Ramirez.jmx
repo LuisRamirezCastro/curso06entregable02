@@ -54,7 +54,7 @@
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">www.google.co.cr</stringProp>
+          <stringProp name="HTTPSampler.domain">www.google.com</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
@@ -77,7 +77,7 @@
         </Arguments>
         <hashTree/>
         <com.blazemeter.jmeter.RandomCSVDataSetConfig guiclass="com.blazemeter.jmeter.RandomCSVDataSetConfigGui" testclass="com.blazemeter.jmeter.RandomCSVDataSetConfig" testname="bzm - Random CSV Data Set Config - id &amp; searchTerm" enabled="true">
-          <stringProp name="filename">/Users/luisramirez/Documents/UCreativa/Curso06/curso06entregable02/load_test/searchTerms.csv</stringProp>
+          <stringProp name="filename">/Users/luisramirez/Documents/UCreativa/Curso06/pruebaProyecto2/curso06entregable02/load_test/searchTerms.csv</stringProp>
           <stringProp name="fileEncoding">UTF-8</stringProp>
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="variableNames"></stringProp>
